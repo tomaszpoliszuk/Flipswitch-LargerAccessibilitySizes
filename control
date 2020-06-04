@@ -1,11 +1,14 @@
 Package: com.tomaszpoliszuk.flipswitchlargeraccessibilitysizes
 Depends: firmware (>= 13.4), mobilesubstrate, com.a3tweaks.flipswitch
 Name: Flipswitch - Larger Accessibility Sizes
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Flipswitch Toggle for Larger Accessibility Sizes
-Maintainer: BigBoss
+Description: Flipswitch toggle for Larger Accessibility Sizes
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchlargeraccessibilitysizesDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchlargeraccessibilitysizesDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Addons (Flipswitch)
 dev: tomaszpoliszuk
+Tag: purpose::extension, compatible::ios13
